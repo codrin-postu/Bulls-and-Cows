@@ -6,6 +6,8 @@
       <module name="Bulls_and_Cows-task_test" target="11" />
       <module name="Problems-Account_and_its_owner_main" target="11" />
       <module name="Problems-Account_and_its_owner_test" target="11" />
+      <module name="Problems-Account_main" target="11" />
+      <module name="Problems-Account_test" target="11" />
       <module name="Problems-Accounts_main" target="11" />
       <module name="Problems-Accounts_test" target="11" />
       <module name="Problems-Area_of_a_circle_main" target="11" />
@@ -18,10 +20,18 @@
       <module name="Problems-Book_test" target="11" />
       <module name="Problems-Car_main" target="11" />
       <module name="Problems-Car_test" target="11" />
+      <module name="Problems-Catching_some_exceptions_main" target="11" />
+      <module name="Problems-Catching_some_exceptions_test" target="11" />
+      <module name="Problems-Classes_for_Hospital_main" target="11" />
+      <module name="Problems-Classes_for_Hospital_test" target="11" />
+      <module name="Problems-Complex_main" target="11" />
       <module name="Problems-Complex_numbers_main" target="11" />
       <module name="Problems-Complex_numbers_test" target="11" />
+      <module name="Problems-Complex_test" target="11" />
       <module name="Problems-Concat_all_strings_without_digits_main" target="11" />
       <module name="Problems-Concat_all_strings_without_digits_test" target="11" />
+      <module name="Problems-Converting_and_multiplying_main" target="11" />
+      <module name="Problems-Converting_and_multiplying_test" target="11" />
       <module name="Problems-Difference_between_two_doubles_main" target="11" />
       <module name="Problems-Difference_between_two_doubles_test" target="11" />
       <module name="Problems-Distance_main" target="11" />
@@ -30,6 +40,8 @@
       <module name="Problems-Gaussian_random_numbers_test" target="11" />
       <module name="Problems-Getting_input_main" target="11" />
       <module name="Problems-Getting_input_test" target="11" />
+      <module name="Problems-Getting_the_fullname_main" target="11" />
+      <module name="Problems-Getting_the_fullname_test" target="11" />
       <module name="Problems-Heron's_formula_main" target="11" />
       <module name="Problems-Heron's_formula_test" target="11" />
       <module name="Problems-In_a_box_main" target="11" />
@@ -52,6 +64,8 @@
       <module name="Problems-Simulating_a_clock_test" target="11" />
       <module name="Problems-Sorting_arrays_main" target="11" />
       <module name="Problems-Sorting_arrays_test" target="11" />
+      <module name="Problems-String_to_double_conversion_main" target="11" />
+      <module name="Problems-String_to_double_conversion_test" target="11" />
       <module name="Problems-The_lucky_ticket_main" target="11" />
       <module name="Problems-The_lucky_ticket_test" target="11" />
       <module name="Problems-User_main" target="11" />

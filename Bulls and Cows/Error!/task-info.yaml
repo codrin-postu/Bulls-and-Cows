@@ -407,6 +407,13 @@ files:
         }
     }
   learner_created: false
+- name: src/bullscows/Game.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/53/stages/293/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/53/stages/293/implement">JetBrains
+    Academy</a>
+  time: Thu, 19 Nov 2020 22:49:06 UTC
 record: -1

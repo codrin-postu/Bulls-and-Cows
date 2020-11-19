@@ -1,2 +1,4 @@
+bullscows/Game.java
+ bullscows.Game
 bullscows/Main.java
  bullscows.Main
