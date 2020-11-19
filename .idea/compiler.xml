@@ -4,12 +4,20 @@
     <bytecodeTargetLevel>
       <module name="Bulls_and_Cows-task_main" target="11" />
       <module name="Bulls_and_Cows-task_test" target="11" />
+      <module name="Problems-Account_and_its_owner_main" target="11" />
+      <module name="Problems-Account_and_its_owner_test" target="11" />
       <module name="Problems-Accounts_main" target="11" />
       <module name="Problems-Accounts_test" target="11" />
       <module name="Problems-Area_of_a_circle_main" target="11" />
       <module name="Problems-Area_of_a_circle_test" target="11" />
       <module name="Problems-Army_main" target="11" />
       <module name="Problems-Army_test" target="11" />
+      <module name="Problems-Binary_search_main" target="11" />
+      <module name="Problems-Binary_search_test" target="11" />
+      <module name="Problems-Book_main" target="11" />
+      <module name="Problems-Book_test" target="11" />
+      <module name="Problems-Car_main" target="11" />
+      <module name="Problems-Car_test" target="11" />
       <module name="Problems-Complex_numbers_main" target="11" />
       <module name="Problems-Complex_numbers_test" target="11" />
       <module name="Problems-Concat_all_strings_without_digits_main" target="11" />
@@ -18,6 +26,14 @@
       <module name="Problems-Difference_between_two_doubles_test" target="11" />
       <module name="Problems-Distance_main" target="11" />
       <module name="Problems-Distance_test" target="11" />
+      <module name="Problems-Gaussian_random_numbers_main" target="11" />
+      <module name="Problems-Gaussian_random_numbers_test" target="11" />
+      <module name="Problems-Getting_input_main" target="11" />
+      <module name="Problems-Getting_input_test" target="11" />
+      <module name="Problems-Heron's_formula_main" target="11" />
+      <module name="Problems-Heron's_formula_test" target="11" />
+      <module name="Problems-In_a_box_main" target="11" />
+      <module name="Problems-In_a_box_test" target="11" />
       <module name="Problems-Inner_boxes_main" target="11" />
       <module name="Problems-Inner_boxes_test" target="11" />
       <module name="Problems-Move_the_first_N_characters_main" target="11" />
@@ -28,10 +44,18 @@
       <module name="Problems-Pow_test" target="11" />
       <module name="Problems-Preparing_full_name_main" target="11" />
       <module name="Problems-Preparing_full_name_test" target="11" />
+      <module name="Problems-Quadratic_equation_main" target="11" />
+      <module name="Problems-Quadratic_equation_test" target="11" />
       <module name="Problems-Representing_time_as_a_class_main" target="11" />
       <module name="Problems-Representing_time_as_a_class_test" target="11" />
+      <module name="Problems-Simulating_a_clock_main" target="11" />
+      <module name="Problems-Simulating_a_clock_test" target="11" />
+      <module name="Problems-Sorting_arrays_main" target="11" />
+      <module name="Problems-Sorting_arrays_test" target="11" />
       <module name="Problems-The_lucky_ticket_main" target="11" />
       <module name="Problems-The_lucky_ticket_test" target="11" />
+      <module name="Problems-User_main" target="11" />
+      <module name="Problems-User_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>
