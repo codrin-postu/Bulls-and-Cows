@@ -10,6 +10,7 @@ public class Main {
 
         System.out.println("Okay, let's start a game!");
         while (!bullsAndCows.isGameWon()) {
+            System.out.println("Turn " + bullsAndCows.getRoundCount() +":");
             bullsAndCows.playRound(getGuess(bullsAndCows));
         }
     }

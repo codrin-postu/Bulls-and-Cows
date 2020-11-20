@@ -35,6 +35,10 @@ public class Game {
         System.out.println("Congratulations! You guessed the secret code.");
     }
 
+    public int getRoundCount() {
+        return roundCount;
+    }
+
     public int getCodeLength() {
         return codeLength;
     }
@@ -113,7 +117,7 @@ public class Game {
     }
 
     public void playRound(String guessString) {
-        bulls = cows = 0;                                               // resetting the bulls/cows counter
+        bulls = cows = 0; // resetting the bulls/cows counter
 
         for (int i = 0; i < codeLength; i++) {
             char guessSymbol = guessString.charAt(i);
@@ -134,6 +138,8 @@ public class Game {
             setGameWon(true);
         }
         printBullsCows();
+
+        roundCount++;
     }
 
     private void printBullsCows() {
